@@ -1,0 +1,47 @@
+.dataTables_length {
+	float:left;
+	margin-left:5vw;
+	display:inline-block;
+}
+.dataTables_filter {
+	float:right;
+	margin-right:5vw;
+	display:inline-block;
+}
+.dataTables_info {
+    display:inline-block;
+    margin-right:5vw;
+}
+.dataTables_paginate{
+	display:inline-block;
+}
+.login100-form-btn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  padding: 0 5px;
+  min-width: 130px;
+  height: 40px;
+  background-color: #3a5277;
+  border-radius: 25px;
+
+  font-family: Poppins-Regular;
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.2;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.login100-form-btn:hover {
+  background-color: #333333;
+}
+#codeForm{
+	display: flex;
+justify-content: center;
+}

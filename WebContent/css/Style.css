@@ -1,0 +1,25 @@
+ table
+{
+    border-collapse: collapse;
+    position : center;
+    margin: auto;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+   	text-align: center;
+  	
+  }
+  
+  th {
+	background-color: #6288F5;
+	color : white;
+}
+img{
+	width:200px;
+}
+#recherche{
+	display: flex; 
+	align-items: center;
+}
+

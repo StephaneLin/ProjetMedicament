@@ -1,0 +1,195 @@
+1;visite de la page d'accueil;2020-05-28 01:59:52;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 02:00:02;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 02:00:04;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 02:00:08;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 02:00:08;admin;192.168.0.30
+1;visite de la page des avis ASMR d'un medicament;2020-05-28 02:00:11;admin;192.168.0.30
+1;visite de la page des liens asmr d'un médicament;2020-05-28 02:00:17;admin;192.168.0.30
+1;visite de la page des liens asmr d'un médicament;2020-05-28 02:00:23;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:08:10;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:08:10;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:08:10;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 09:08:12;patient non identifiÃ©;192.168.0.30
+4;tentative ratée de connexion;2020-05-28 09:08:20;admin;192.168.0.30
+1;visite de la page de connexion;2020-05-28 09:08:20;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 09:08:40;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:08:40;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 09:09:14;admin;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 09:09:20;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 09:09:30;admin;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 09:09:34;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:09:50;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:22:47;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:22:48;patient non identifié;192.168.0.30
+1;visite de la page contenant la liste des substance actives et un lien vers les médicaments la contenant;2020-05-28 09:23:30;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:25:42;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 09:25:57;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:25:59;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:26:04;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 09:28:53;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 09:28:59;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:28:59;admin;192.168.0.30
+1;visite de la page contenant la liste des substance actives et un lien vers les médicaments la contenant;2020-05-28 09:33:49;admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments conteant une substance active définie;2020-05-28 09:34:20;admin;192.168.0.30
+5;tentative non autorisée d'accès a la page Historique;2020-05-28 09:44:04;null;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:44:04;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 09:44:06;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 09:44:11;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:44:11;admin;192.168.0.30
+1;visite de la page affichant la liste des groupes génériques;2020-05-28 09:44:17;admin;192.168.0.30
+1;visite de la page contenant la liste des substance actives et un lien vers les médicaments la contenant;2020-05-28 09:44:20;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 09:44:25;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 10:09:52;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 10:34:01;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 10:34:10;patient non identifié;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 10:34:14;null;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 10:34:35;null;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 10:35:47;null;192.168.0.30
+1;visite de la page de connexion;2020-05-28 10:35:52;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 10:35:56;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 10:35:56;admin;192.168.0.30
+1;visite de la page Sujet.jsp;2020-05-28 10:36:00;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 10:36:03;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 10:36:07;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 10:36:12;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:20:53;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:21:15;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 14:21:19;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 14:21:23;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:21:23;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:22:06;admin;192.168.0.30
+3;déconnexion de l'utilisateur;2020-05-28 14:24:03;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:24:03;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 14:24:34;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 14:25:08;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:25:08;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 14:29:09;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:30:36;admin;192.168.0.30
+3;déconnexion de l'utilisateur;2020-05-28 14:36:38;null;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:36:38;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 14:40:20;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 14:40:24;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:40:24;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:40:41;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 14:40:57;admin;192.168.0.30
+1;visite de la page affichant la liste des groupes génériques;2020-05-28 14:41:05;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:41:29;admin;192.168.0.30
+3;déconnexion de l'utilisateur;2020-05-28 14:41:51;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:41:51;patient non identifié;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 14:41:56;null;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 14:42:19;null;192.168.0.30
+1;visite de la page de connexion;2020-05-28 14:42:21;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 14:42:27;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:42:27;admin;192.168.0.30
+1;visite de la page Sujet.jsp;2020-05-28 14:42:31;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 14:42:42;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 14:42:50;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 14:42:59;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:43:11;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:43:25;admin;192.168.0.30
+3;déconnexion de l'utilisateur;2020-05-28 14:43:27;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:43:27;patient non identifié;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 14:46:10;patient non identifié;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 14:46:47;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:47:23;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 14:47:32;patient non identifié;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 14:47:43;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:47:54;patient non identifié;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 14:48:02;null;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:48:34;patient non identifié;192.168.0.30
+1;visite de la page faq;2020-05-28 14:49:41;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 14:50:02;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 14:50:07;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:50:07;admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 14:50:35;admin;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 14:50:53;admin;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 14:51:21;admin;192.168.0.30
+1;visite de la page affichant la liste des groupes génériques;2020-05-28 14:51:38;admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments appartenant à un groupe générique choisi;2020-05-28 14:51:50;admin;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 14:52:00;admin;192.168.0.30
+1;visite de la page des avis ASMR d'un medicament;2020-05-28 14:52:15;admin;192.168.0.30
+1;visite de la page des liens asmr d'un médicament;2020-05-28 14:52:29;admin;192.168.0.30
+1;visite de la page des avis ASMR d'un medicament;2020-05-28 14:52:43;admin;192.168.0.30
+1;visite de la page des liens smr d'un médicament;2020-05-28 14:52:53;admin;192.168.0.30
+1;visite de la page contenant la liste des medicaments (pour afficher leur informations inmportantes);2020-05-28 14:53:09;admin;192.168.0.30
+1;visite de la  page des Informations importante d'un medicament;2020-05-28 14:53:26;admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments et un lien pour consulter leur condition de prescription et de délivrance;2020-05-28 14:53:45;admin;192.168.0.30
+1;visite de la page des avis de la commission ASMR et SMR;2020-05-28 14:53:54;admin;192.168.0.30
+1;visite de la page contenant tous les liens d'avis associés à un médicament;2020-05-28 14:54:05;admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments et un lien pour consulter leur condition de prescription et de délivrance;2020-05-28 14:54:20;admin;192.168.0.30
+1;visite de la page des avis de prescription et de délivrance d'un médicament ;2020-05-28 14:54:32;admin;192.168.0.30
+1;visite de la page des avis de prescription et de délivrance d'un médicament ;2020-05-28 14:54:39;admin;192.168.0.30
+1;visite de la page Sujet.jsp;2020-05-28 14:56:01;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 14:56:10;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 14:56:29;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:57:18;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 14:57:31;admin;192.168.0.30
+1;visite de la page faq;2020-05-28 14:59:07;admin;192.168.0.30
+3;déconnexion de l'utilisateur;2020-05-28 15:02:16;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 15:02:16;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 15:02:17;patient non identifiÃ©;192.168.0.30
+4;tentative ratée de connexion;2020-05-28 15:02:21;admin;192.168.0.30
+1;visite de la page de connexion;2020-05-28 15:02:21;patient non identifiÃ©;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 15:26:02;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:17:29;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:17:36;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 16:24:52;patient non identifiÃ©;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:28:06;patient non identifié;192.168.0.30
+1;visite de la page faq;2020-05-28 16:28:07;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 16:31:14;patient non identifiÃ©;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:31:16;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 16:31:41;patient non identifiÃ©;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:35:51;patient non identifié;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 16:35:53;patient non identifié;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 16:39:13;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 16:44:34;patient non identifié;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 16:44:40;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 16:44:50;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 16:45:01;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 16:45:25;patient non identifié;192.168.0.30
+1;visite de la page des médicaments non-commercialisés;2020-05-28 16:45:25;patient non identifié;192.168.0.30
+1;visite de la page des compositions et présentations d'un médicament;2020-05-28 16:49:02;patient non identifié;192.168.0.30
+1;visite de la page contenant la liste des substance actives et un lien vers les médicaments la contenant;2020-05-28 16:53:02;patient non identifié;192.168.0.30
+1;visite de la page contenant la liste des médicaments conteant une substance active définie;2020-05-28 16:57:23;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 17:03:15;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 17:03:19;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:03:19;admin;192.168.0.30
+1;tentative de la page de création de question;2020-05-28 17:11:50;null;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 17:17:20;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 17:23:04;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 17:23:08;Admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:23:08;Admin;192.168.0.30
+1;visite de la page affichant la liste des groupes génériques;2020-05-28 17:23:11;Admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments appartenant à un groupe générique choisi;2020-05-28 17:26:40;Admin;192.168.0.30
+1;visite de la page des médicaments commercialisés;2020-05-28 17:28:58;Admin;192.168.0.30
+1;visite de la page des avis ASMR d'un medicament;2020-05-28 17:29:03;Admin;192.168.0.30
+1;visite de la page des liens asmr d'un médicament;2020-05-28 17:31:05;Admin;192.168.0.30
+1;visite de la page des avis ASMR d'un medicament;2020-05-28 17:33:18;Admin;192.168.0.30
+1;visite de la page des liens smr d'un médicament;2020-05-28 17:33:25;Admin;192.168.0.30
+1;visite de la page contenant la liste des medicaments (pour afficher leur informations inmportantes);2020-05-28 17:36:24;Admin;192.168.0.30
+1;visite de la  page des Informations importante d'un medicament;2020-05-28 17:37:09;Admin;192.168.0.30
+5;tentative non autorisée d'accès a la page des avis de la commission ASMR et SMR;2020-05-28 17:42:29;null;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:42:29;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 17:42:33;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 17:42:36;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:42:36;admin;192.168.0.30
+1;visite de la page des avis de la commission ASMR et SMR;2020-05-28 17:42:42;admin;192.168.0.30
+1;visite de la page contenant tous les liens d'avis associés à un médicament;2020-05-28 17:42:56;admin;192.168.0.30
+5;tentative non autorisée d'accès a la page des liens smr d'un médicament;2020-05-28 17:49:59;null;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:49:59;patient non identifié;192.168.0.30
+1;visite de la page de connexion;2020-05-28 17:50:00;patient non identifiÃ©;192.168.0.30
+2;connexion de l'utilisateur;2020-05-28 17:50:06;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:50:06;admin;192.168.0.30
+1;visite de la page des avis de la commission ASMR et SMR;2020-05-28 17:50:12;admin;192.168.0.30
+1;visite de la page contenant tous les liens d'avis associés à un médicament;2020-05-28 17:50:19;admin;192.168.0.30
+1;visite de la page contenant tous les liens d'avis associés à un médicament;2020-05-28 17:50:30;admin;192.168.0.30
+1;visite de la page contenant la liste des médicaments et un lien pour consulter leur condition de prescription et de délivrance;2020-05-28 17:54:31;admin;192.168.0.30
+1;visite de la page des avis de prescription et de délivrance d'un médicament ;2020-05-28 17:54:40;admin;192.168.0.30
+1;visite de la page d'accueil;2020-05-28 17:58:48;admin;192.168.0.30
+1;visite de la page Sujet.jsp;2020-05-28 18:00:00;admin;192.168.0.30
+1;visite de la page listeRepMessage.jsp;2020-05-28 18:01:38;admin;192.168.0.30
+1;visite de la page Sujet.jsp;2020-05-28 18:02:04;admin;192.168.0.30
+1;visite de la page d'accueil;2021-05-13 14:44:33;patient non identifié;192.168.2.13
+1;visite de la page d'accueil;2021-05-13 14:46:19;patient non identifié;192.168.2.13
+1;visite de la page des médicaments commercialisés;2021-05-13 14:46:26;patient non identifié;192.168.2.13
+1;visite de la page de connexion;2021-05-13 14:46:45;patient non identifiÃ©;192.168.2.13

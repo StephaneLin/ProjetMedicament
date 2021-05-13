@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+	version="4.0">
+	<display-name>Medicament2-G3</display-name>
+	<welcome-file-list>
+		<welcome-file>accueil.jsp</welcome-file>
+	</welcome-file-list>
+	<context-param>
+		<param-name>url</param-name>
+		<param-value>jdbc:mysql://localhost/medicament2-G3?serverTimezone=Europe/Paris</param-value>
+	</context-param>
+	<context-param>
+		<param-name>username</param-name>
+		<param-value>root</param-value>
+	</context-param>
+	<context-param>
+		<param-name>password</param-name>
+		<param-value>root</param-value>
+	</context-param>
+	<session-config>
+		<session-timeout>5</session-timeout>
+	</session-config>
+</web-app>
