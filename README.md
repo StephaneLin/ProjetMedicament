@@ -11,6 +11,6 @@ Vous aurez besoin de Java:
 
 ## Fabriqué avec
 
-[Eclipse IDE](https://www.eclipse.org/) - éditeur de texte
-[Bootstrap](https://getbootstrap.com/) - Framework CSS
-[Datatable](https://datatables.net/)
+* [Eclipse IDE](https://www.eclipse.org/) - éditeur de texte
+* [Bootstrap](https://getbootstrap.com/) - Framework CSS
+* [Datatable](https://datatables.net/)
